@@ -1,5 +1,4 @@
 # inyukl.github.oi
-<!DOCTYPE html>
 <html>
     <head>
     <title>
@@ -7,7 +6,7 @@
     </title>
     <meta http-equiv="refresh" content="360;http://www.wuzhen.com.cn/">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="../图片/微信图片_20221030134420.jpg">
+    <link rel="icon" type="image/x-icon" href="../Web前端/微信图片_20221030134420.jpg">
     <base href="2.html"target="-blank">
     <script
      type="text/javascript">
@@ -52,7 +51,7 @@
             仿佛能划过那漫长岁月
             感受千年古镇留下的厚重年代感</p>
         <a href="1.html">第一个html</a>
-        <img src="../图片/微信图片_20221030134432.jpg" alt="123"title="hihi" width="720px" height="560px" border="15">
+        <img src="../Web前端/微信图片_20221030134432.jpg" alt="123"title="hihi" width="720px" height="560px" border="15">
 
     </body>
 
